@@ -1,3 +1,3 @@
 #AlexsList
 
-A craigslist-inspired project using Spring MVC.
+A craigslist-inspired project using Spring MVC
